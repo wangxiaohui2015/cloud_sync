@@ -16,7 +16,7 @@ import org.apache.log4j.Logger;
 
 import com.my.cloud.provider.ICloudProvider;
 import com.my.cloud.provider.TencentCloud;
-import com.my.proxy.util.ConfigUtil;
+import com.my.cloud.util.ConfigUtil;
 
 /**
  * Backup service.

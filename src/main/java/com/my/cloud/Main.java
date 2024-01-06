@@ -5,7 +5,7 @@ import java.io.File;
 import org.apache.log4j.Logger;
 
 import com.my.cloud.service.BackupService;
-import com.my.proxy.util.ConfigUtil;
+import com.my.cloud.util.ConfigUtil;
 
 /**
  * This is the main entry, please set root directory when running this program, below is an example,

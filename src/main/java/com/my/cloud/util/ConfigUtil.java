@@ -1,4 +1,4 @@
-package com.my.proxy.util;
+package com.my.cloud.util;
 
 import java.io.File;
 import java.io.FileInputStream;
